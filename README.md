@@ -1,7 +1,5 @@
 # Vision Board
 
-![Vision Board]
-
 ## Overview
 
 The Vision Board project is a web-based tool developed for an assignment at Northwest Vista College. It allows you to plan and visualize your goals, helping you stay motivated to achieve them.
@@ -71,6 +69,6 @@ This project is under the MIT License. See [LICENSE.md](LICENSE.md) for details.
 
 ## Contact
 
-For questions or issues, contact me at [addisonteschan@example.com](mailto:addisonteschan@gmail.com).
+For questions or issues, contact me at [addisonteschan@gmail.com](mailto:addisonteschan@gmail.com).
 
 Thank you for using the Vision Board, and best of luck with your goals!
