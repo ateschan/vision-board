@@ -56,8 +56,7 @@ You can access the Vision Board in two ways:
 
 This project is under the MIT License. See [LICENSE.md](LICENSE.md) for details.
 
-## Contact
 
-For questions or issues, contact me at [addisonteschan@gmail.com](mailto:addisonteschan@gmail.com).
 
-Thank you for using the Vision Board, and best of luck with your goals!
+
+##Thank you for using the Vision Board, and best of luck with your goals!
