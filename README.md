@@ -30,17 +30,6 @@ You can access the Vision Board in two ways:
    - **Alternative: Download ZIP and Open HTML**:
      - If you prefer not to clone the repository, you can download the ZIP file of the project by clicking the "Code" button at the top of the GitHub page and selecting "Download ZIP." Once downloaded, unzip the file to a directory of your choice. In the unzipped directory, locate and double-click `index.html` to open it in your web browser.
 
-
-## Features
-
-- **Add Goals**: Easily add new goals by clicking "Add Goal" and providing a title and description.
-
-- **Edit Goals**: Update existing goals by clicking "Edit" on a goal card.
-
-- **Remove Goals**: Remove goals by clicking "Delete" on a goal card.
-
-- **Visualize Your Dreams**: Your vision board provides a visual representation of your goals.
-
 ## Usage
 
 1. **Adding a Goal**:
