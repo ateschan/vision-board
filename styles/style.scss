@@ -259,3 +259,195 @@ button {
         
     }
 }
+
+/* Styles for small screens (up to 768px) */
+@media (max-width: 400px) {
+    .wrapper{
+        flex: content;
+    }
+    .block-container{ 
+        background-color: #8EA4D2;
+        width: 50%;
+        height: 50%;
+        border: 4px solid #8EA4D2 ;
+        border-radius:1.75rem  1.75rem;
+        flex: 1;
+        margin: 5px;
+        
+    }
+
+    #Header {
+        h1{
+            flex-direction: row;
+            font-size: 14px; 
+            font-family: Helvetica, Sans-Serif; 
+            font-weight: bolder;
+            pre{
+                font-size: 14px;
+            }
+        }
+        flex-direction: row;
+        font-size: 8px; 
+        font-family: Helvetica, Sans-Serif; 
+        font-weight: bolder;
+        color: aliceblue;
+        background-color: #374151;
+        align-items: flex-start;
+        justify-content: center;
+        border-bottom: 2px solid #8EA4D2;
+        position: relative;
+    
+        button {
+            margin-right: 10px;
+            margin-bottom: 3px;
+            align-self: flex-end;
+            display: block; 
+            position: absolute;
+            border: none;
+            cursor: pointer;
+            width: 15px;
+            height: 15px;
+            appearance: none;
+            background-color: inherit;
+            transition: none;
+            right: 0;
+          }
+          img{
+            color: aliceblue;
+            opacity: 60%;
+            width: 15px;
+            height: auto;
+        }
+    }
+    
+    #body1{
+        height: 100%;
+        background-color: #49516F;
+        .row-head{
+            flex-direction: row;
+            .column{
+                width: 70px;
+                flex-direction: row;
+                font-size: 28px; 
+                font-family: Helvetica, Sans-Serif; 
+                font-weight: bolder;
+            }
+            img{
+                color: aliceblue;
+                opacity: 60%;
+                width: 20px;
+                height: auto;
+            }
+        }
+        .row{
+            padding: 5px;
+            padding-bottom: 20px;
+            height: 78%;
+            justify-content: space-evenly;
+            
+        }
+    }
+
+    #body2{
+        background-color: #49516F;
+        .row-head{
+            flex-direction: row;
+            .column{
+                width: 70px;
+                flex-direction: row;
+                font-size: 28px; 
+                font-family: Helvetica, Sans-Serif; 
+                font-weight: bolder;
+            }
+            img{
+                color: aliceblue;
+                opacity: 60%;
+                width: 20px;
+                height: auto;
+            }
+        }
+        .row{
+            padding: 0px;
+            padding-bottom: 20px;
+            height: 78%;
+            justify-content: space-evenly;
+            
+        }
+    }
+
+    #body3{
+        background-color: #49516F;
+        .row-head{
+            flex-direction: row;
+            .column{
+                width: 70px;
+                flex-direction: row;
+                font-size: 28px; 
+                font-family: Helvetica, Sans-Serif; 
+                font-weight: bolder;
+            }
+            img{
+                color: aliceblue;
+                opacity: 60%;
+                width: 20px;
+                height: auto;
+            }
+        }
+        .row{
+            padding: 0px;
+            padding-bottom: 20px;
+            height: 78%;
+            justify-content: space-evenly;
+            
+        }
+    }
+
+
+  }
+  
+  /* Styles for larger screens */
+  @media (min-width: 769px) {
+    #Header {
+        h1{
+            flex-direction: row;
+            font-size: 28px; 
+            font-family: Helvetica, Sans-Serif; 
+            font-weight: bolder;
+            pre{
+                font-size: 28px;
+            }
+        }
+        flex-direction: row;
+        font-size: 8px; 
+        font-family: Helvetica, Sans-Serif; 
+        font-weight: bolder;
+        color: aliceblue;
+        background-color: #374151;
+        align-items: center;
+        justify-content: center;
+        border-bottom: 2px solid #8EA4D2;
+        position: relative;
+    
+        button {
+            margin-right: 10px;
+            margin-bottom: 8px;
+            align-self: flex-end;
+            display: block; 
+            position: absolute;
+            border: none;
+            cursor: pointer;
+            width: 20px;
+            height: 20px;
+            appearance: none;
+            background-color: inherit;
+            transition: none;
+            right: 0;
+          }
+          img{
+            color: aliceblue;
+            opacity: 60%;
+            width: 20px;
+            height: auto;
+        }
+    }
+  }
