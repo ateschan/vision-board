@@ -10,7 +10,7 @@ The Vision Board project is a web-based tool developed for an assignment at Nort
 
 You can access the Vision Board in two ways:
 
-1. **GitHub Pages**: Access the Vision Board directly on GitHub Pages [here](example-github-pages-link).
+1. **GitHub Pages**: Access the Vision Board directly on GitHub Pages [here](https://ateschan.github.io/vision-board/).
 
 2. **Local Installation**:
 
