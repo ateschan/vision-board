@@ -58,5 +58,4 @@ This project is under the MIT License. See [LICENSE.md](LICENSE.md) for details.
 
 
 
-
-##Thank you for using the Vision Board, and best of luck with your goals!
+Thank you for using the Vision Board, and best of luck with your goals!
