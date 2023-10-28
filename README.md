@@ -3,7 +3,6 @@
 ## Overview
 
 The Vision Board project is a web-based tool developed for an assignment at Northwest Vista College. It allows you to plan and visualize your goals, helping you stay motivated to achieve them.
-<font color="red">**WARNING:** This project is in active development and may have bugs or incomplete features.</font>
 
 
 ## Getting Started
